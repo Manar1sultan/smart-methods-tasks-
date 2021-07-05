@@ -17,5 +17,20 @@
   <a href="index2.php"><button class="bw" name="button5">Backwards</button>
 
 </div></form>
+	  
+<script>
+  window.watsonAssistantChatOptions = {
+      integrationID: "bc9622fb-473c-4bbf-81a7-5d475647145e", // The ID of this integration.
+      region: "eu-gb", // The region your integration is hosted in.
+      serviceInstanceID: "5a54b5a7-abd1-474f-9960-f09e73c762a5", // The ID of your service instance.
+      onLoad: function(instance) { instance.render(); }
+    };
+  setTimeout(function(){
+    const t=document.createElement('script');
+    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
+    document.head.appendChild(t);
+  });
+</script>
+	  
 </body>
 </html>
