@@ -14,8 +14,14 @@ Files:
 5. style.css
 
 # second Task:
+
+The second task is a user interface for the robot arm control system (forward, left, right, Stop, backward) using JQUERY and web development technique.
+
+Files:
 1. index2.html
 2. index2.php
 3. resul2.php
 4. control.sql
 5. style.css
+
+# Third Task:
