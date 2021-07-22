@@ -1,8 +1,8 @@
 # smart-methods-tasks-
 
-This repository is for the Smart methods Company for the IOT and software development Department tasks:
+# This repository is for the Smart methods Company for the IOT and software development Department tasks:
 
-first Task:
+# first Task:
 
 The first task is a user interface for a robot control system using JQUERY and web development technique.
 
@@ -13,9 +13,9 @@ Files:
 4. motors.sql
 5. style.css
 
-second Task:
-1- index2.html
-2- index2.php
-3- resul2.php
-4- control.sql
-5- style.css
+# second Task:
+1. index2.html
+2. index2.php
+3. resul2.php
+4. control.sql
+5. style.css
