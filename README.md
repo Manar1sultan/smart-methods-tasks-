@@ -25,3 +25,10 @@ Files:
 5. style.css
 
 # Third Task:
+
+The third task is to create a chatbot using IBM watson and integrate with a website.
+
+Files:
+1. index1.html
+2. index2.html
+3. skill-chat.json
